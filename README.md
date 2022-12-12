@@ -1,3 +1,3 @@
 # Demo-git
 
-getting started with GitHub.
+getting started with GitHub!
